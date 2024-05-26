@@ -28,6 +28,10 @@ The game was made by objects/classes:
 
 <img width="1323" alt="Screen Shot 2024-05-26 at 4 22 05 PM" src="https://github.com/James-Z-Zhang00/Python_Game_Spaceship/assets/144994336/45d2cff4-8dca-4f19-a7f8-4e681e7a4032">
 
+## The Start Point File 
 
+The initialization of the game
+
+<img width="887" alt="Screen Shot 2024-05-26 at 4 35 35 PM" src="https://github.com/James-Z-Zhang00/Python_Game_Spaceship/assets/144994336/316fe796-2ba2-40b6-9c2e-48b5c0d6b03d">
 
 
