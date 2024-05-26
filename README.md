@@ -1,6 +1,9 @@
 # Python_Game_Spaceship
 
 A simple desktop game built by Pygame and sprite
+1. [General Information][1]
+2. [Object Oriented Design Concepts][2]
+3. [The Start Point File][3]
 
 ## General Information
 
@@ -34,4 +37,7 @@ The initialization of the game
 
 <img width="887" alt="Screen Shot 2024-05-26 at 4 35 35 PM" src="https://github.com/James-Z-Zhang00/Python_Game_Spaceship/assets/144994336/316fe796-2ba2-40b6-9c2e-48b5c0d6b03d">
 
+[1]: #General-Information
+[2]: #Object-Oriented-Design-Concepts
+[3]: #The-Start-Point-File
 
